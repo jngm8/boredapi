@@ -3,7 +3,7 @@ import React from 'react';
 
 const Activity = () =>{
     return(
-        <h1>Hola</h1>
+        <h1>Here one card with the activity will be displayed!</h1>
     )
 };
 
